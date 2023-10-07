@@ -13,7 +13,7 @@
 ## TLDR
 
 1. Let's build a search page
-2. There are two seperate steps to this exercise. The first step is a practice to layout a page using flexbox. The second step is to build the actual search page. 
+2. There are two seperate steps to this exercise. The first step provides you with practice laying out a page using flexbox. The second step is to build an actual search page. 
 3. You will be updating two seperate style sheets to build the two required pages (`style-01.css` and `style-02.css`). 
 2. Do not modify any `HTML` for this tutorial exercise.
 3. Modify your css files, and commit the changes back to your repo.
