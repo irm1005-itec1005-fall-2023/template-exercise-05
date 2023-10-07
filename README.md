@@ -12,15 +12,17 @@
 
 ## TLDR
 
-1. There are six seperate style sheets that you are updating to build the six required pages (`style-01.css` `style-02.css` ... `style-06.css`). 
-2. Do not modify any `HTML` for the first five steps. You can modify the `HTML` for the sixth and final step - but it will work without any modifications. You are allowed to change the `HTML` to experiment like add a different logo, change the contents of the links, etc. 
+1. Let's build a search page
+2. There are two seperate steps to this exercise. The first step is a practice to layout a page using flexbox. The second step is to build the actual search page. 
+3. You will be updating two seperate style sheets to build the two required pages (`style-01.css` and `style-02.css`). 
+2. Do not modify any `HTML` for this tutorial exercise.
 3. Modify your css files, and commit the changes back to your repo.
 2. Turn on GitHub Pages.
-3. Submit a comment in the [Tutorial 04 - Show and Tell discussion board](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/7) and share a link to your `Step 06` Navigation Bar live web page.
+3. Submit a comment in the [Tutorial 05 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/9) and share a link to your Search Page live web page.
 
 ## Description
 
-The goal of this tutorial is for students to gain experience using `Flexbox`, a `CSS` tool that helps us layout elements on our pages.
+The goal of this tutorial is for students to gain even more experience using `Flexbox`, a `CSS` tool that helps us layout elements on our pages.
 
 ## Table of contents
 
@@ -35,17 +37,17 @@ You must have completed `Tutorial 04` before attempted this exercise. The instru
 
 To complete this tutorial you must follow the steps below. Additional help can be found further below.
 
-- There are five files that you are going to modify in this exercise, `style-01.css` `style-02.css` ... `style-06.css`.
-- You do not need to modify any `HTML` for this tutorial exercise. However, if you want to explore different designs or logos for your navigation bar, you may modify `step-06.html` as needed.
+- There are two files that you are going to modify in this exercise, `style-01.css` `style-02.css`.
+- You do not need to modify any `HTML` for this tutorial exercise.
 - Using the final solution screenshots as a reference, follow the instructions in each `CSS` file to acheive the desired results.
-- `style-01.css` to `style-05.css` are simple practice exercises to get you started with `Flexbox` and `style-06.css` challenges you to create a Navigation Bar.
-- If you get stuck, you can use the example in the `solutions` folder for guidance
-- Preview your six pages by using the LivePreview (or similiar) feature in VSCode
-- Commit your changes and push to GitHub
-- Turn on [GitHub Pages](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/4) in the `settings` section of your repository
-- View your live web pages
-- In the [Tutorial 04 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/7) in our GitHub Discussion Group, add a comment with a link to your Navigation Bar (Step 06) page
-- Check out some of your other team members Navigation Bars and make sure to tell them how awesome they are
+- `style-01.css` is a simple practice exercises to get you started with using `Flexbox` to do page layouts.
+- If you get stuck, you can use the example in the `solutions` folder for guidance.
+- Preview your pages using the LivePreview (or similiar) feature in VSCode.
+- Commit your changes and push to GitHub.
+- Turn on [GitHub Pages](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/4) in the `settings` section of your repository.
+- View your live web pages.
+- In the [Tutorial 05 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/9) in our GitHub Discussion Group, add a comment with a link to your Search Page.
+- Check out some of your other team members Navigation Bars and make sure to tell them how awesome they are.
 
 ## Additional help
 
@@ -65,25 +67,9 @@ Refer to this [discussion post](https://github.com/orgs/irm1005-itec1005-fall-20
 
 ### Image of Step 02
 
-![Screenshot](./images/screenshot-step-02.png)
-
-### Image of Step 03
-
-![Screenshot](./images/screenshot-step-03.png)
-
-### Image of Step 04
-
-![Screenshot](./images/screenshot-step-04.png)
-
-### Image of Step 05
-
-![Screenshot](./images/screenshot-step-05.png)
-
-### Image of Step 06
-
 You are encouraged to bring in your own text styles, logo, colours, anything to make it unique. The screenshot below is just for reference. 
 
-![Screenshot](./images/screenshot-step-06.png)
+![Screenshot](./images/screenshot-step-02.png)
 
 ## 📚 Helpful links
 
