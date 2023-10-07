@@ -31,7 +31,7 @@ The goal of this tutorial is for students to gain experience using `Flexbox`, a 
 
 ## Instructions
 
-You must have completed `Tutorial 03` before attempted this exercise. The instructions below assume you have a working developer environment.
+You must have completed `Tutorial 04` before attempted this exercise. The instructions below assume you have a working developer environment.
 
 To complete this tutorial you must follow the steps below. Additional help can be found further below.
 
